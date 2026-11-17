@@ -4,7 +4,6 @@ Sistema de console em **Java** para cadastro de funcionários e aplicação de a
 
 ![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 ---
 
