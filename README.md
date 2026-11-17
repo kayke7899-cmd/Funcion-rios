@@ -105,14 +105,7 @@ Salário...: R$3300.0
 --------------------------------------------------
 ```
 
-## 🔮 Melhorias futuras
 
-- [ ] Menu interativo para cadastrar, listar, buscar e remover funcionários
-- [ ] Armazenar os funcionários em uma lista (`ArrayList<Funcionarios>`)
-- [ ] Validação das entradas (salário negativo, percentual inválido)
-- [ ] Persistência dos dados em arquivo ou banco de dados
-- [ ] Métodos `get` e `set` para os atributos
-- [ ] Testes unitários com JUnit
 
 ## 👤 Autor
 
